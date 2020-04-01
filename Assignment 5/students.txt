@@ -1,0 +1,10 @@
+1 Malina
+2 Bianca
+3 Doru
+4 Amalia
+5 Cristi
+6 Teodora
+7 Tudor
+8 Ionut
+9 Marcel
+10 Anca

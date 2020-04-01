@@ -1,0 +1,12 @@
+TIC TAC TOE
+human (X)
+computer (O)
+human starts, moves alternate
+validate human moves
+    -no overlapping symbols
+    -think inside the box
+computer moves
+    -computer moves are valid
+    -first, try random moves
+    -computer seizes instant win
+    -block player's win

@@ -1,0 +1,10 @@
+101 Logica
+102 Analiza
+103 Algebra
+104 Geometrie
+105 Programare
+106 Sport
+107 Psihologie
+108 Biologie
+109 Geografie
+110 Istorie
